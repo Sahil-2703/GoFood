@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const mongoURI = "mongodb+srv://rsinghsahil91:Kingofthemonster1@cluster0.u3kanmt.mongodb.net/GoFoodData";
+const mongoURI = "mongodb://0.0.0.0:27017/GoFood";
 
 mongoose.set("strictQuery", true);
 
