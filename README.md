@@ -1,13 +1,15 @@
 <div align="center">
-  <br />
-    
-      <img src="./sample-images/signup.png" alt="Project Banner">
-      <img src="./sample-images/signin.png.png" alt="Project Banner">
-      <img src="./sample-images/Home.png" alt="Project Banner">
-      <img src="./sample-images/cart.png" alt="Project Banner">
-      <img src="./sample-images/orders.png" alt="Project Banner">
-    
-  <br />
+  
+
+  <div>
+    <img src="./sample-images/signup.png" alt="Sign-up">
+      <img src="./sample-images/signin.png" alt="Sign-In">
+      <img src="./sample-images/Homepage.png" alt="Home Page">
+      <img src="./sample-images/cart.png" alt="My Cart">
+      <img src="./sample-images/orders.png" alt="My Order">
+  </div>
+
+
 
   <div>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react.js" />
