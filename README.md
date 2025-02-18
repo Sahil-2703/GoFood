@@ -2,10 +2,15 @@
   
 
   <div>
+  <h3>Sign Up</h3>
     <img src="./sample-images/signup.png" alt="Sign-up">
+  <h3>Sign In</h3>
       <img src="./sample-images/signin.png" alt="Sign-In">
+  <h3>Home Page</h3>
       <img src="./sample-images/Homepage.png" alt="Home Page">
+  <h3>My Cart</h3>
       <img src="./sample-images/cart.png" alt="My Cart">
+  <h3>My Order</h3>
       <img src="./sample-images/orders.png" alt="My Order">
   </div>
 
